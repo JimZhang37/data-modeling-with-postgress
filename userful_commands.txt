@@ -1,0 +1,9 @@
+docker pull onekenken/postgres-student-image
+
+tar cvzf U2-P1-archive.tar.gz .
+
+tar xfvz project-archive.tar.gz
+
+pip install psycopg2-binary
+
+pip install ipython-sql

@@ -1,0 +1,38 @@
+# packages in environment at /opt/conda:
+#
+# Name                    Version                   Build  Channel
+atari-py                  0.1.7                    pypi_0    pypi
+binutils_impl_linux-64    2.31.1               h6176602_1    defaults
+binutils_linux-64         2.31.1               h6176602_7    defaults
+box2d-kengz               2.3.3                    pypi_0    pypi
+ca-certificates           2019.11.28           hecc5488_0    conda-forge
+cassandra-driver          3.11.0                   pypi_0    pypi
+dask-core                 0.16.1                     py_0    conda-forge
+flask-socketio            2.9.2                    py36_0    conda-forge
+gcc_impl_linux-64         7.3.0                habb00fd_1    conda-forge
+gcc_linux-64              7.3.0                h553295d_7    conda-forge
+gst-plugins-base          1.14.0               he9c8b40_0    defaults
+gxx_impl_linux-64         7.3.0                hdf63c60_1    conda-forge
+gxx_linux-64              7.3.0                h553295d_7    conda-forge
+intel-openmp              2018.0.0             hc7b2577_8    defaults
+ipython-sql               0.3.9                    py36_0    conda-forge
+libgcc-ng                 7.3.0                hdf63c60_0    defaults
+libgfortran-ng            7.2.0                h9f7466a_2    defaults
+libstdcxx-ng              7.3.0                hdf63c60_0    defaults
+more-itertools            7.0.0                    pypi_0    pypi
+msgpack-python            0.4.8                    py36_0    conda-forge
+mujoco-py                 1.50.1.59                pypi_0    pypi
+python-crfsuite           0.9.2                    py36_0    conda-forge
+python-dateutil           2.6.1                    py36_0    conda-forge
+python-engineio           2.0.2                      py_0    conda-forge
+python-socketio           1.8.4                      py_0    conda-forge
+python-speech-features    0.6                      pypi_0    pypi
+requests-oauthlib         0.8.0                    py36_1    conda-forge
+requests-toolbelt         0.9.1                    pypi_0    pypi
+scikit-image              0.14.2           py36he6710b0_0    defaults
+scikit-learn              0.19.1          py36_blas_openblas_200  [blas_openblas]  conda-forge
+udacity-pa                0.2.7                    pypi_0    pypi
+util-linux                2.21                          0    defaults
+xeus-cling                0.4.9                         0    quantstack
+xorg-libxau               1.0.8                         3    conda-forge
+xorg-libxdmcp             1.1.2                         3    conda-forge
